@@ -10,7 +10,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/genvid-holdings/claude-code-plugin-genvid-dev.git",
-        "sha": "8a7e3d3262662c4c8da03792a1a67046735be9f9"
+        "sha": "3428755febe0c5e94708fe5a28a29abccbe761ca"
       },
       "description": "Shared Claude Code skills, agents, and hooks for Genvid game projects"
     }
