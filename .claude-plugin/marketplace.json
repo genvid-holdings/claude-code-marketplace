@@ -9,7 +9,7 @@
       "name": "genvid-dev",
       "source": {
         "source": "git-subdir",
-        "url": "https://github.com/genvid-holdings/claude-code-plugin-genvid-dev.git",
+        "url": "https://github.com/GenvidTechnologies/claude-code-plugin-gvt-dev.git",
         "path": "plugin",
         "ref": "v3.5.1"
       },
@@ -19,7 +19,7 @@
       "name": "genvid-c3",
       "source": {
         "source": "git-subdir",
-        "url": "https://github.com/genvid-holdings/claude-code-plugin-genvid-c3.git",
+        "url": "https://github.com/GenvidTechnologies/claude-code-plugin-gvt-construct3.git",
         "path": "plugin",
         "ref": "v1.6.0"
       },

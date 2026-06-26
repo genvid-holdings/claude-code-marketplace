@@ -1,4 +1,4 @@
-# claude-code-marketplace
+# claude-code-gvt-marketplace
 
 Genvid's [Claude Code plugin marketplace](https://code.claude.com/docs/en/plugin-marketplaces) (catalog name `genvid-plugins`).
 
@@ -8,12 +8,13 @@ This repo holds **only the catalog** (`.claude-plugin/marketplace.json`). Each p
 
 | Plugin | Repo | Install |
 |--------|------|---------|
-| `genvid-dev` | [`claude-code-plugin-genvid-dev`](https://github.com/genvid-holdings/claude-code-plugin-genvid-dev) | `genvid-dev@genvid-plugins` |
+| `genvid-dev` | [`claude-code-plugin-gvt-dev`](https://github.com/GenvidTechnologies/claude-code-plugin-gvt-dev) | `genvid-dev@genvid-plugins` |
+| `genvid-c3` | [`claude-code-plugin-gvt-construct3`](https://github.com/GenvidTechnologies/claude-code-plugin-gvt-construct3) | `genvid-c3@genvid-plugins` |
 
 ## Install
 
 ```text
-/plugin marketplace add https://github.com/genvid-holdings/claude-code-marketplace.git
+/plugin marketplace add https://github.com/GenvidTechnologies/claude-code-gvt-marketplace.git
 /plugin install genvid-dev@genvid-plugins
 ```
 
